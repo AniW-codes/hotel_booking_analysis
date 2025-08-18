@@ -1,5 +1,5 @@
 
-# 🧾 Hotel Booking Analysis
+## Hotel Booking Analysis
 
 Analyzing hotel booking efficiency to support strategic inventory and marketing decisions using Python and Tableau.
 
@@ -12,6 +12,7 @@ Analyzing hotel booking efficiency to support strategic inventory and marketing 
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a href="#Dashboard">Dashboard</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -77,6 +78,20 @@ Effective marketing, identification of holiday periods, and cost manipulation ar
 ✔️ Turns out, resorts are more expensive than city hotels, yet city hotels experienced more cancellations.
 
 ✔️ Waiting list myth busted: Contrary to expectation, short waitlist customers cancelled more often than those on longer waitlists—likely because long-wait customers are more committed, while short-wait bookings are opportunistic.
+
+---
+<h2><a class="anchor" id="Dashboard"></a>Dashboard</h2>
+
+Tableau P1: https://shorturl.at/eyhRr
+
+**Dashboard - P1**
+<img width="1863" height="727" alt="Image" src="https://github.com/user-attachments/assets/dc9c32c9-8bb9-43c0-870d-27d20eeb524c" />
+
+Tableau P2: https://shorturl.at/0EDJF
+
+**Dashboard - P2**
+<img width="1877" height="730" alt="Image" src="https://github.com/user-attachments/assets/eea96dd7-76e6-488e-bf99-66c29aa934fe" />
+
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
